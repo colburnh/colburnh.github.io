@@ -14,8 +14,13 @@ app.set('port', 5226);
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
+<<<<<<< HEAD
 app.get('/', (req, res) => {
     res.render('home.html');
+=======
+app.get('/home', (req, res) => {
+    res.render('index.html');
+>>>>>>> b387d65bb5e481cd5e2fe752effbeb2656576b70
 });
 
 app.get('/hills', (req, res) => {
