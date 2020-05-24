@@ -14,10 +14,10 @@
     <nav class="navbar navbar-inverse navbar-fixed">
         <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="index.html">Pet Food Calculator</a>
+            <a class="navbar-brand" href="home.html">Pet Food Calculator</a>
         </div>
         <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="home.html">Home</a></li>
             <li><a href="hills.html">Hill's</a></li>
             <li><a href="rc.html">Royal Canin</a></li>
             <li><a class="active" href="otc.html">Over the Counter</a></li>
@@ -25,16 +25,42 @@
     </div>
     </nav>
 
-    <header class="page-header header container-fluid">
+    <br>
 
-    </header>
-
-    <div class="container">
+    <div class="container" id="text-content">
 
     </div>
 
-    <!-- list of links -->
-    <h2>The American Veterinary Medical Association (AVMA) and Food & Drug Administration recommend avoiding raw and grain-free foods</h2>
+    <br>
+
+    <div class="container" id="pet-info">
+        <form method="POST">
+            <fieldset>
+                <legend>Pet's Details</legend>
+                <label>Name: <input type="text" name="petName"></label>
+                <br />
+                <label>Species: <input type="radio" name="species" value="cat">Cat</label>
+                <label><input type="radio" name="species" value="dog">Dog</label>
+                <br />
+                <label>Weight (lbs): <input type="number" name="weight"></label>
+                <br />
+                <label>Calorie Goal (in kcal): <input type="number" name="calorieGoal"></label>
+                <br />
+            </fieldset>
+        </form>
+    </div>
+
+    <br>
+
+    <div class="container" id="results">
+
+    </div>
+
+    <br>
+
+    <div class="container" id="links">
+    <!-- unordered list of links -->
+    <h3>The American Veterinary Medical Association (AVMA) and Food & Drug Administration recommend avoiding raw and grain-free foods</h3>
     <ul>
         <li>
             <a href="https://www.avma.org/javma-news/2019-10-01/fda-searching-possible-links-between-canine-diets-heart-disease">
@@ -54,7 +80,7 @@
             FDA on raw food</a>
         </li>
     </ul>
-
+    </div>
 <script src="main.js"></script>
 </body>
 </html>

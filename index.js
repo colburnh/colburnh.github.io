@@ -14,8 +14,8 @@ app.set('port', 5226);
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
-app.get('/home', (req, res) => {
-    res.render('index.html');
+app.get('/', (req, res) => {
+    res.render('home.html');
 });
 
 app.get('/hills', (req, res) => {
