@@ -1,0 +1,450 @@
+[
+  {
+    "Code": "HCADWL",
+    "Diet": "a/d",
+    "Type": "wet",
+    "kcal/can (small)": 183,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCBDD",
+    "Diet": "b/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 361
+  },
+  {
+    "Code": "HCCDCWS",
+    "Diet": "c/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 266,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCCDCWS",
+    "Diet": "c/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 463,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCCDMD",
+    "Diet": "c/d Multicare",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 375
+  },
+  {
+    "Code": "HCDDWL",
+    "Diet": "d/d Duck",
+    "Type": "wet",
+    "kcal/can (small)": 356,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCDDDD",
+    "Diet": "d/d Duck",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 371
+  },
+  {
+    "Code": "HCDDSWL",
+    "Diet": "d/d Salmon",
+    "Type": "wet",
+    "kcal/can (small)": 386,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCDDSD",
+    "Diet": "d/d Salmon",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 360
+  },
+  {
+    "Code": "HCDDVD",
+    "Diet": "d/d Venison",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 371
+  },
+  {
+    "Code": "HCDDD",
+    "Diet": "Derm Defense",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 344
+  },
+  {
+    "Code": "HCDDCWS",
+    "Diet": "Derm Defense Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 299,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCGDD",
+    "Diet": "g/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 361
+  },
+  {
+    "Code": "HCGDWS",
+    "Diet": "g/d",
+    "Type": "wet",
+    "kcal/can (small)": 388,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCDID",
+    "Diet": "Gastrointestinal Biome",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 343
+  },
+  {
+    "Code": "HCHDD",
+    "Diet": "h/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 410
+  },
+  {
+    "Code": "HCHDDW",
+    "Diet": "h/d",
+    "Type": "wet",
+    "kcal/can (small)": 482,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDD",
+    "Diet": "i/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 369
+  },
+  {
+    "Code": "HCIDDW",
+    "Diet": "i/d",
+    "Type": "wet",
+    "kcal/can (small)": 376,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDCW",
+    "Diet": "i/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 264,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDLFD",
+    "Diet": "i/d Low Fat",
+    "Type": "dry",
+    "kcal/can (small)": 333,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDLFW",
+    "Diet": "i/d Low Fat",
+    "Type": "wet",
+    "kcal/can (small)": 349,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDLFCW",
+    "Diet": "i/d Low Fat Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 289,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDSD",
+    "Diet": "i/d Sensitive",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 380
+  },
+  {
+    "Code": "HCIDSBD",
+    "Diet": "i/d Small Bites",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 379
+  },
+  {
+    "Code": "HCIDSW",
+    "Diet": "i/d Stress",
+    "Type": "wet",
+    "kcal/can (small)": 126,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCIDSD",
+    "Diet": "i/d Stress",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 329
+  },
+  {
+    "Code": "HCJDW",
+    "Diet": "j/d",
+    "Type": "wet",
+    "kcal/can (small)": 477,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCJDD",
+    "Diet": "j/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 353
+  },
+  {
+    "Code": "HCJDSBD",
+    "Diet": "j/d Small Bites",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 353
+  },
+  {
+    "Code": "HCKDW",
+    "Diet": "k/d",
+    "Type": "wet",
+    "kcal/can (small)": 422,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCKDMD",
+    "Diet": "k/d + Mobility",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 496
+  },
+  {
+    "Code": "HCKDMW",
+    "Diet": "k/d + Mobility Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 352,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCKDBWS",
+    "Diet": "k/d Beef",
+    "Type": "wet",
+    "kcal/can (small)": 145,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCKDBWL",
+    "Diet": "k/d Beef",
+    "Type": "wet",
+    "kcal/can (small)": 330,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCKDCW",
+    "Diet": "k/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 358,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCKDD",
+    "Diet": "k/d Chicken",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 402
+  },
+  {
+    "Code": "HCKDLW",
+    "Diet": "k/d Lamb",
+    "Type": "wet",
+    "kcal/can (small)": 421,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCKDLD",
+    "Diet": "k/d Lamb",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 459
+  },
+  {
+    "Code": "HCLDW",
+    "Diet": "l/d",
+    "Type": "wet",
+    "kcal/can (small)": 548,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCLDD",
+    "Diet": "l/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 402
+  },
+  {
+    "Code": "HCMW",
+    "Diet": "Metabolic",
+    "Type": "wet",
+    "kcal/can (small)": 322,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCMD",
+    "Diet": "Metabolic",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 260
+  },
+  {
+    "Code": "HCMMD",
+    "Diet": "Metabolic + Mobility",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 291
+  },
+  {
+    "Code": "HCMMTW",
+    "Diet": "Metabolic + Mobility Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 218,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCMUD",
+    "Diet": "Metabolic + Urinary",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 279
+  },
+  {
+    "Code": "HCMBW",
+    "Diet": "Metabolic Beef",
+    "Type": "wet",
+    "kcal/can (small)": 248,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCMCW",
+    "Diet": "Metabolic Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 248,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCMLD",
+    "Diet": "Metabolic Lamb",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 256
+  },
+  {
+    "Code": "HCRDD",
+    "Diet": "r/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 245
+  },
+  {
+    "Code": "HCRDW",
+    "Diet": "r/d",
+    "Type": "wet",
+    "kcal/can (small)": 299,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCSDW",
+    "Diet": "s/d",
+    "Type": "wet",
+    "kcal/can (small)": 468,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCTDD",
+    "Diet": "t/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 248
+  },
+  {
+    "Code": "HCTDSBD",
+    "Diet": "t/d Small Bites",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 248
+  },
+  {
+    "Code": "HCUDD",
+    "Diet": "u/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 398
+  },
+  {
+    "Code": "HCUDW",
+    "Diet": "u/d",
+    "Type": "wet",
+    "kcal/can (small)": 499,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCWDCW",
+    "Diet": "w/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 89,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCWDCW",
+    "Diet": "w/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 201,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCWDMD",
+    "Diet": "w/d Multibenefit",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 255
+  },
+  {
+    "Code": "HCWDMW",
+    "Diet": "w/d Multibenefit",
+    "Type": "wet",
+    "kcal/can (small)": 307,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCZDWS",
+    "Diet": "z/d",
+    "Type": "wet",
+    "kcal/can (small)": 148,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCZDWSL",
+    "Diet": "z/d",
+    "Type": "wet",
+    "kcal/can (small)": 352,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HCZDD",
+    "Diet": "z/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 354
+  },
+  {
+    "Code": "HCZDSBD",
+    "Diet": "z/d Small Bites",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 374
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "Code": "HFADWL",
+    "Diet": "a/d",
+    "Type": "wet",
+    "kcal/can (small)": 183,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFCDWS",
+    "Diet": "c/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 69,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFCDMWS",
+    "Diet": "c/d Multicare + Metabolic Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 61,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFCDMCD",
+    "Diet": "c/d Multicare Chicken",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 349
+  },
+  {
+    "Code": "HFCDMCWS",
+    "Diet": "c/d Multicare Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 174,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFCDMSD",
+    "Diet": "c/d Multicare Stress",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 351
+  },
+  {
+    "Code": "HFCDMTD",
+    "Diet": "c/d Multicare Tuna",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 382
+  },
+  {
+    "Code": "HFCESCS",
+    "Diet": "c/d Stress Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 71,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFCDTWS",
+    "Diet": "c/d Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 67,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFCDTWL",
+    "Diet": "c/d Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 169,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFDDDWL",
+    "Diet": "d/d Duck",
+    "Type": "wet",
+    "kcal/can (small)": 189,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFDDDD",
+    "Diet": "d/d Duck",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 468
+  },
+  {
+    "Code": "HFDDVD",
+    "Diet": "d/d Venison",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 491
+  },
+  {
+    "Code": "HFGIWS",
+    "Diet": "Gastrointestinal Biome Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 67,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFGID",
+    "Diet": "Gastrointestinal Biome Chicken",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 427
+  },
+  {
+    "Code": "HFIDWL",
+    "Diet": "i/d",
+    "Type": "wet",
+    "kcal/can (small)": 167,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFIDD",
+    "Diet": "i/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 508
+  },
+  {
+    "Code": "HFIDCWS",
+    "Diet": "i/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 78,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKDMD",
+    "Diet": "k/d + Mobility",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 483
+  },
+  {
+    "Code": "HFKDMCWS",
+    "Diet": "k/d + Mobility Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 68,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKDCWS",
+    "Diet": "k/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 70,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKDCD",
+    "Diet": "k/d Chicken",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 541
+  },
+  {
+    "Code": "HFKDCWL",
+    "Diet": "k/d Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 177,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKEECWS",
+    "Diet": "k/d Early Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 79,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKDECD",
+    "Diet": "k/d Early Chicken",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 536
+  },
+  {
+    "Code": "HFKDTWS",
+    "Diet": "k/d Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 77,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKDTWL",
+    "Diet": "k/d Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 170,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFKDTD",
+    "Diet": "k/d Tuna",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 444
+  },
+  {
+    "Code": "HFMDCWS",
+    "Diet": "m/d GlucoSupport Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 78,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFMDCD",
+    "Diet": "m/d GlucoSupport Chicken",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 463
+  },
+  {
+    "Code": "HFMDCWL",
+    "Diet": "m/d GlucoSupport Liver",
+    "Type": "wet",
+    "kcal/can (small)": 173,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFMWL",
+    "Diet": "Metabolic",
+    "Type": "wet",
+    "kcal/can (small)": 136,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFMD",
+    "Diet": "Metabolic",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 297
+  },
+  {
+    "Code": "HFMUD",
+    "Diet": "Metabolic + Urinary",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 289
+  },
+  {
+    "Code": "HFMUSD",
+    "Diet": "Metabolic + Urinary Stress",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 289
+  },
+  {
+    "Code": "HFMUTWS",
+    "Diet": "Metabolic + Urinary Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 60,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFMCWS",
+    "Diet": "Metabolic Chicken",
+    "Type": "wet",
+    "kcal/can (small)": 64,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFMTWS",
+    "Diet": "Metabolic Tuna",
+    "Type": "wet",
+    "kcal/can (small)": 63,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFRDD",
+    "Diet": "r/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 265
+  },
+  {
+    "Code": "HFRDWL",
+    "Diet": "r/d",
+    "Type": "wet",
+    "kcal/can (small)": 122,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HSFDWL",
+    "Diet": "s/d",
+    "Type": "wet",
+    "kcal/can (small)": 202,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFSDD",
+    "Diet": "s/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 523
+  },
+  {
+    "Code": "HFWDMWL",
+    "Diet": "w/d Multibenefit",
+    "Type": "wet",
+    "kcal/can (small)": 128,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFWDMD",
+    "Diet": "w/d Multibenefit",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 278
+  },
+  {
+    "Code": "HFYDWL",
+    "Diet": "y/d",
+    "Type": "wet",
+    "kcal/can (small)": 193,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFYDD",
+    "Diet": "y/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 517
+  },
+  {
+    "Code": "HFZDWL",
+    "Diet": "z/d",
+    "Type": "wet",
+    "kcal/can (small)": 174,
+    "kcal/cup": ""
+  },
+  {
+    "Code": "HFZDD",
+    "Diet": "z/d",
+    "Type": "dry",
+    "kcal/can (small)": "",
+    "kcal/cup": 408
+  }
+]
