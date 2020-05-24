@@ -1,0 +1,28 @@
+.header {
+    background-position: center;
+    position: relative;
+  }
+
+/* .container {
+    background-image: url('images/sleepy-kitty.jpg');
+    opacity: 0.3;
+    background-size: cover;
+} */
+
+.menuBar {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+.menuBar li {
+    float: left;
+}
+
+.menuBar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
