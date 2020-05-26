@@ -1,28 +1,34 @@
-.header {
-    background-position: center;
-    position: relative;
-  }
-
-/* .container {
-    background-image: url('images/sleepy-kitty.jpg');
-    opacity: 0.3;
-    background-size: cover;
-} */
-
-.menuBar {
-    margin: 0;
-    padding: 0;
-    background-color: grey;
+.body {
+  margin: 2em;
+  background-color: rgb(202, 195, 186);
 }
 
-.menuBar li {
+.card > .card-header {
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: center;
+
+}
+
+.container-fluid {
     float: left;
-}
-
-.menuBar li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.nav a {
+  padding-left: 2em;
+}
+
+#img {
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
 }
 
