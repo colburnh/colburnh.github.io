@@ -25,73 +25,9 @@
     </div>
     </nav>
 
-    <div class="container">
-        <br>
-        <div id="carousel" class="carousel slide" data-ride="carousel">
 
-            <ol class="carousel-indicators">
-                <li data-target="#carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel" data-slide-to="1"></li>
-                <li data-target="#carousel" data-slide-to="2"></li>
-                <li data-target="#carousel" data-slide-to="3"></li>
-            </ol>
-
-            <div class="carousel-inner" role="listbox">
-
-                <div class="item active">
-                    <img src="cat-on-stairs.jpg" width="450" height="340">
-                    <div class="carousel-caption">
-                        <h3>cat on stairs</h3>
-                        <p>it's a cat on stairs!</p>
-                    </div>
-                    <cite>Photo by Alexander London on Unsplash</cite>
-                </div>
-
-                <div class="item">
-                    <img src="beach-puppy.jpg" width="450" height="340">
-                    <div class="carousel-caption">
-                        <h3>beach puppy</h3>
-                        <p>it's a puppy on a beach!</p>
-                    </div>
-                    <cite>Photo by Andrew Pons on Unsplash</cite>
-                </div>
-
-                <div class="item">
-                    <img src="happy-dog.jpg" width="450" height="340">
-                    <div class="carousel-caption">
-                        <h3>happy dog</h3>
-                        <p>it's a happy dog!</p>
-                    </div>
-                    <cite>Photo by Justin Veenema on Unsplash</cite>
-                </div>
-
-                <div class="item">
-                    <img src="pensive-kitty.jpg" width="450" height="340">
-                    <div class="carousel-caption">
-                        <h3>pensive kitty</h3>
-                        <p>this is a very thoughtful kitty!</p>
-                    </div>
-                    <cite>Photo by Noah Austin on Unsplash</cite>
-                </div>
-            </div>
-
-            <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            </a>
-            <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            </a>
-        </div>
-
-    </div>
-<!-- JS, Popper.js, and jQuery -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-<script src="main.js"></script>
 </body>
 
 </html>
 
-</html>
 
