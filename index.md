@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <title>Pet Food Calculator</title>
@@ -6,13 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     
-
-    <style>
-        .carousel-inner > .item > img {
-            width: 80%;
-            margin: auto;
-        }
-    </style>
 
 </head>
 
@@ -97,8 +90,8 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 <script src="main.js"></script>
 </body>
-<<<<<<< HEAD
+
 </html>
-=======
+
 </html>
->>>>>>> 779dd67cc8d3b29e598c859441d63a1989701df3
+
